@@ -12,9 +12,10 @@
  *          
  *          
  *          
- * Versão da Adriana         
  *          
- * Versão do Miguel 
+ *          
+ * Versão do somente do Miguel 
+ * Branch Comentário          
  *             
  *            
  *            
