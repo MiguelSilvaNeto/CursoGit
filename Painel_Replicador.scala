@@ -1,5 +1,5 @@
 /*
- *                     REPLICADOR DE TABELAS
+ *                     REPLICADOR DE TABELAS - EQUIPE INTEGRAÇÃO
  *
  * Autor: Miguel Pereira da Silva Neto (F7141129)
  * Data: 08/03/2022
