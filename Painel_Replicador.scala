@@ -2,7 +2,7 @@
  *                     REPLICADOR DE TABELAS - EQUIPE INTEGRAÇÃO
  *
  * Autor: Miguel Pereira da Silva Neto (F7141129)
- * Data: 08/03/2022
+ * Data: 18/03/2022
  * Assunto: Processamento dos dados para geração de um painel de acompanhamento das tabelas replicadas.
  *          Há uma base no postgree que contém os metadados do Replicador de Tabelas, e uma base no Big_Hive que contem os dados de acesso às tabelas do Hive.
  *          Este código se propõe a gerar uma base para construir relatórios que respondam o seguinte:
