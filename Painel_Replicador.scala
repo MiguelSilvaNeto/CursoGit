@@ -30,6 +30,7 @@
 //    spark-shell  --driver-memory 6G --executor-memory 4G --num-executors 30 --jars /home/f7141129/jars/postgresql-42.3.1.jar
 // Drivers podem ser baixados do HDFS "/dados/shared/bin/"
 
+// Alterações no código feito pela Adriana
 
 //IMPORTS
 import org.apache.spark.sql.Row
